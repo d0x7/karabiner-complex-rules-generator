@@ -1,6 +1,7 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
+[![GitHub Pages][ghpages-shield]][ghpages-url]
 
 <!-- PROJECT LOGO -->
 <br />
@@ -136,3 +137,5 @@ Project Link: [https://github.com/genesy/karabiner-complex-rules-generator/](htt
 [issues-url]: https://github.com/genesy/karabiner-complex-rules-generator/issues
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/roshan-lamichhane
+[ghpages-shield]: https://img.shields.io/github/actions/workflow/status/d0x7/karabiner-complex-rules-generator/github-pages.yml?label=GitHub%20Pages&logo=github&style=for-the-badge
+[ghpages-url]: https://d0x7.github.io/karabiner-complex-rules-generator/
